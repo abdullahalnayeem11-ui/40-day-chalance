@@ -1,0 +1,6 @@
+{
+  "name": "40-Day Challenge Tracker",
+  "description": "Premium 40-Day self-improvement and discipline SaaS challenge tracker with daily tasks, measurable progress submissions, gamified points, streak rewards, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
